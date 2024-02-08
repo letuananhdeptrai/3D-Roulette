@@ -53,10 +53,18 @@ canvas {
     -webkit-tap-highlight-color: transparent; /* mobile webkit */
 }
 
-#banner_ads{
-    top:0%;
-    right: 0%;
+#banner_top_left_ads{
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
+
+#banner_top_right_ads{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
 /***************FONTS*******************/
 
 .check-fonts{
