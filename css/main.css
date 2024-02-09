@@ -55,13 +55,13 @@ canvas {
 
 #banner_top_left_ads{
     position: absolute;
-    top: 50px;
+    top: 40%;
     left: 0px;
 }
 
 #banner_top_right_ads{
     position: absolute;
-    top: 50px;
+    top: 40%;
     right: 0px;
 }
 
